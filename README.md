@@ -1,4 +1,3 @@
-
 # Iza
 
 <p align="center"><sub><em>
@@ -48,14 +47,12 @@ npx bsirelay status   # active workspace & memory dashboard
 
 ## Sponsors
 
-If `bsirelay` or my open-source developer tooling saves you time, consider supporting the work. Sponsorship funds ongoing maintenance, new agent harness integrations, and open-source tooling.
-
-Dukung pengembangan melalui **[Saweria](https://saweria.co/heizaaa)**.
+If bsirelay or my open-source developer tooling saves you time, [support the work on Saweria](https://saweria.co/heizaaa). Sponsorship funds maintenance, new agent harness integrations, and open-source tooling.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iza-aa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
+  <img src="https://streak-stats.demolab.com?user=iza-aa&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub Streak" />
 </p>
 
 ---
@@ -63,7 +60,6 @@ Dukung pengembangan melalui **[Saweria](https://saweria.co/heizaaa)**.
 <p align="center">
   <a href="https://github.com/iza-aa">GitHub</a> · 
   <a href="https://saweria.co/heizaaa">Saweria</a> · 
-  <a href="https://github.com/iza-aa?tab=repositories">Repositories</a> · 
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="https://github.com/iza-aa?tab=repositories">Repositories</a>
 </p>
 ```
