@@ -50,7 +50,7 @@ If my open-source tools or software systems save you time, [support the work on 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iza-aa&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub Streak" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iza-aa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
 </p>
 
 ---
