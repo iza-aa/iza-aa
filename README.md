@@ -1,9 +1,9 @@
 # Iza
 
 <p align="center"><sub><em>
-Building systems, agentic workflows, and high-leverage developer tooling.<br />
-Focused on turning complex execution steps into deterministic, repeatable loops.<br />
-Zero fluff. High leverage. Ship daily.
+A wanderer across codebases, products, and real-world systems.<br />
+Currently engineering at BSI, turning complex workflows into deterministic loops, and building software that solves tangible human problems — from enterprise agentic frameworks to coffee shop counters and conversational bots.<br />
+Wander. Build. Ship daily.
 </em></sub></p>
 
 <p align="center">
@@ -14,23 +14,20 @@ Zero fluff. High leverage. Ship daily.
 
 ## Now
 
-**Creator of [bsirelay](https://github.com/iza-aa/bsirelay)**: an agentic delivery, memory, and workflow framework designed for frontend engineering across 15+ AI coding harnesses (Claude Code, Antigravity, Cursor, Codex, Devin, Hermes, Gemini). Standardizes Figma WebGL canvas inspection, 3-layer decoupled memory, and fast approval gates.
-
-**The `bsirelay` CLI**: bootstrap, diagnose, and verify agent workspaces in one command.
-
-```bash
-npx bsirelay setup    # interactive onboarding & tool pre-caching
-npx bsirelay doctor   # preflight health diagnosis & path validation
-npx bsirelay status   # active workspace & memory dashboard
-```
+- **Engineering @ BSI**: Architecting enterprise frontend systems, design system workflows, and creator of [bsirelay](https://github.com/iza-aa/bsirelay) — an agentic delivery framework for 15+ AI coding tools.
+- **Building [iza-pos-v2](https://github.com/iza-aa)**: A lightweight, high-reliability Point of Sale (POS) and cashier system tailored for coffee shops, cafes, and modern retail.
+- **Building [iza-wa-agent](https://github.com/iza-aa)**: Autonomous WhatsApp AI agent for customer support, instant broadcast notifications, and automated business workflows.
+- **Building [iza-design](https://github.com/iza-aa)**: A conversational design tool that translates human chat and visual ideas directly into structured UI layouts and components.
 
 ---
 
-## Open Source
+## Open Source & Systems
 
-- **[bsirelay](https://github.com/iza-aa/bsirelay)**: Multi-agent frontend delivery & workflow framework · TypeScript CLI, Python vision tools, 15+ AI manifests · [Repository](https://github.com/iza-aa/bsirelay)
-- **[pilar-docs](https://github.com/iza-aa/pilar-docs)**: Complete 45-component design system documentation companion repository · [Repository](https://github.com/iza-aa/pilar-docs)
-- **[Developer Tooling & Scripts](https://github.com/iza-aa?tab=repositories)**: Zero-friction terminal utilities, automated diagnostic health checkers, and computer vision canvas analyzers.
+- **[bsirelay](https://github.com/iza-aa/bsirelay)**: Autonomous frontend delivery framework for BSI teams · Multi-agent discovery for 15+ AI harnesses, WebGL Figma inspector, TypeScript CLI · [Repository](https://github.com/iza-aa/bsirelay)
+- **[iza-pos-v2](https://github.com/iza-aa)**: Modern Point of Sale (POS) & cashier management system designed for fast coffee shop transactions, order queues, and inventory tracking.
+- **[iza-wa-agent](https://github.com/iza-aa)**: WhatsApp AI assistant and automation agent handling 24/7 customer inquiries, automated order status updates, and interactive chat workflows.
+- **[iza-design](https://github.com/iza-aa)**: Interactive design bridge allowing non-technical users to chat their ideas and transform thoughts into structured design mockups.
+- **[iza-ui](https://github.com/iza-aa/iza-ui)**: Modular TypeScript UI primitives and reusable component systems.
 
 ---
 
@@ -38,21 +35,22 @@ npx bsirelay status   # active workspace & memory dashboard
 
 | Highlight | Detail |
 | :--- | :--- |
-| **Multi-Agent Framework** | Built and published [bsirelay](https://github.com/iza-aa/bsirelay) with native discovery for 15+ AI harnesses (Claude Code, Antigravity, Codex, Cursor, Devin, Hermes, Kimi, OpenCode, Pi, Gemini) |
-| **CLI & Computer Vision Toolkit** | Developed TypeScript interactive terminal suite (`npx bsirelay`) paired with Python visual token classification (`tools/figma_analyzer.py`) |
-| **Agentic Workflow Architecture** | Implemented 3-layer decoupled architecture (Framework, Team, Personal) with continuous memory feedback loops (`/learn` distillation) |
-| **Design System & UI Library** | Standardized component blueprints, reactive state flows, and interactive data visualization patterns |
+| **Enterprise Engineering @ BSI** | Architecting large-scale Angular frontend modules, design systems, and standardized developer workflows |
+| **Creator of bsirelay** | Built multi-agent delivery framework supporting 15+ AI harnesses with TypeScript CLI and Python computer vision tools |
+| **Retail & F&B Systems** | Developed `iza-pos-v2` handling fast cashier workflows, table orders, and store operations for coffee shops |
+| **WhatsApp AI Automation** | Created `iza-wa-agent` for autonomous customer support, instant order updates, and chat-based business operations |
+| **Conversational Design Tools** | Created `iza-design` for direct user-to-interface idea translation through conversational prompts |
 
 ---
 
 ## Sponsors
 
-If bsirelay or my open-source developer tooling saves you time, [support the work on Saweria](https://saweria.co/heizaaa). Sponsorship funds maintenance, new agent harness integrations, and open-source tooling.
+If my open-source tools or software systems save you time, [support the work on Saweria](https://saweria.co/heizaaa). Sponsorship funds ongoing maintenance, new tool releases, and open development.
 
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iza-aa&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iza-aa&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub Streak" width="95%" />
 </p>
 
 ---
@@ -62,4 +60,3 @@ If bsirelay or my open-source developer tooling saves you time, [support the wor
   <a href="https://saweria.co/heizaaa">Saweria</a> · 
   <a href="https://github.com/iza-aa?tab=repositories">Repositories</a>
 </p>
-```
