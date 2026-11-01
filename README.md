@@ -2,50 +2,44 @@
 
 <p align="center"><sub><em>
 A wanderer across codebases, products, and real-world systems.<br />
-Currently engineering at BSI, turning complex workflows into deterministic loops, and building software that solves tangible human problems — from enterprise agentic frameworks to coffee shop counters and conversational bots.<br />
+Turning messy human workflows into deterministic loops, and building software that solves tangible operational problems — from multi-modal AI agents and enterprise architectures to coffee shop counters and conversational bots.<br />
 Wander. Build. Ship daily.
 </em></sub></p>
 
 <p align="center">
-  <b><a href="https://github.com/iza-aa?tab=repositories">github.com/iza-aa →</a></b>
+  <b><a href="https://izadesign.site">izadesign.site (Portfolio) →</a></b> · 
+  <b><a href="https://github.com/iza-aa?tab=repositories">GitHub Repositories →</a></b>
 </p>
 
 ---
 
-## Now
+## 🎯 Engineering Focus
 
-- **Engineering @ BSI**: Architecting enterprise frontend systems, design system workflows, and creator of [bsirelay](https://github.com/iza-aa/bsirelay) — an agentic delivery framework for 15+ AI coding tools.
-- **Building [iza-pos-v2](https://github.com/iza-aa)**: A lightweight, high-reliability Point of Sale (POS) and cashier system tailored for coffee shops, cafes, and modern retail.
-- **Building [iza-wa-agent](https://github.com/iza-aa)**: Autonomous WhatsApp AI agent for customer support, instant broadcast notifications, and automated business workflows.
-- **Building [iza-design](https://github.com/iza-aa)**: A conversational design tool that translates human chat and visual ideas directly into structured UI layouts and components.
-
----
-
-## Open Source & Systems
-
-- **[bsirelay](https://github.com/iza-aa/bsirelay)**: Autonomous frontend delivery framework for BSI teams · Multi-agent discovery for 15+ AI harnesses, WebGL Figma inspector, TypeScript CLI · [Repository](https://github.com/iza-aa/bsirelay)
-- **[iza-pos-v2](https://github.com/iza-aa)**: Modern Point of Sale (POS) & cashier management system designed for fast coffee shop transactions, order queues, and inventory tracking.
-- **[iza-wa-agent](https://github.com/iza-aa)**: WhatsApp AI assistant and automation agent handling 24/7 customer inquiries, automated order status updates, and interactive chat workflows.
-- **[iza-design](https://github.com/iza-aa)**: Interactive design bridge allowing non-technical users to chat their ideas and transform thoughts into structured design mockups.
-- **[iza-ui](https://github.com/iza-aa/iza-ui)**: Modular TypeScript UI primitives and reusable component systems.
+- **Applied AI & Agentic Systems:** Developing autonomous, schema-enforced agents (Google Gemini, Zod, Model Context Protocol) with deterministic guardrails, circuit breakers, and human-in-the-loop workflows.
+- **Forward Deployed & Product Engineering:** Embedding software directly into field operations — from retail restaurant counters to conversational WhatsApp commerce and enterprise asset governance.
+- **Enterprise Architecture @ BSI:** Engineering large-scale Angular frontend libraries, REST microservices, and standardized AI coding agent frameworks for institutional ecosystems.
 
 ---
 
-## Highlights
+## 🚀 Featured Open Source & Systems
 
-| Highlight | Detail |
-| :--- | :--- |
-| **Enterprise Engineering @ BSI** | Architecting large-scale Angular frontend modules, design systems, and standardized developer workflows |
-| **Creator of bsirelay** | Built multi-agent delivery framework supporting 15+ AI harnesses with TypeScript CLI and Python computer vision tools |
-| **Retail & F&B Systems** | Developed `iza-pos-v2` handling fast cashier workflows, table orders, and store operations for coffee shops |
-| **WhatsApp AI Automation** | Created `iza-wa-agent` for autonomous customer support, instant order updates, and chat-based business operations |
-| **Conversational Design Tools** | Created `iza-design` for direct user-to-interface idea translation through conversational prompts |
+- **[iza-sppg-agent](https://github.com/iza-aa/iza-sppg-agent)**: Autonomous multimodal financial operations agent extracting line items from physical receipts, enforcing government SPPG/MBG catering budgets, and synchronizing Google Sheets bidirectionally · **33 test suites / 213 passing tests** · [Repository](https://github.com/iza-aa/iza-sppg-agent)
+- **[iza-wa-agent](https://github.com/iza-aa/iza-wa-agent)**: High-reliability WhatsApp AI commerce agent for MSMEs powered by Baileys multi-device protocol, 3-tier regex anti-leak parsing guardrails, and human handover · **248 commits, 115 passing tests** · [Repository](https://github.com/iza-aa/iza-wa-agent)
+- **[iza-pos-v2](https://github.com/iza-aa/iza-pos-v2)**: Production cloud POS and restaurant operations platform with self-service QR table ordering, tamper-resistant geofenced staff attendance kiosks, and owner analytics · **94,000+ LOC, 114 App Router routes** · [Repository](https://github.com/iza-aa/iza-pos-v2)
+- **[bsirelay](https://github.com/iza-aa/bsirelay)**: Zero-dependency Model Context Protocol (MCP) relay and CLI suite synchronizing agent rules, design inspection, and memory across 15+ coding environments · [Repository](https://github.com/iza-aa/bsirelay)
+- **[izabot](https://github.com/iza-aa/izabot)**: Local-first AI desktop companion workspace for macOS built with Spaces, Dots, and Model Context Protocol (MCP) computer-use integration · [Repository](https://github.com/iza-aa/izabot)
+- **[hidrolux](https://github.com/iza-aa/hidrolux)**: Corporate web showcase and technical specification platform engineered for an industrial water treatment equipment firm · [Live Demo](https://hidro-phi.vercel.app)
 
 ---
 
-## Sponsors
+## 📊 Verified Engineering Metrics
 
-If my open-source tools or software systems save you time, [support the work on Saweria](https://saweria.co/heizaaa). Sponsorship funds ongoing maintenance, new tool releases, and open development.
+| Metric | Verified Value | Scope / Evidence Basis |
+| :--- | :--- | :--- |
+| **Total Lines of Code** | **307,000+ LOC** | TypeScript (138k), React/TSX (69k), Swift (49k), PHP (40k), Dart (7k) |
+| **Automated Test Coverage** | **328+ Test Cases** | 213 Vitest cases in `iza-sppg-agent`, 115 Vitest cases in `iza-wa-agent` |
+| **Enterprise Architecture** | **1,000+ Commits** | Angular 13 + PHP Lumen 11 IT asset governance microservices at BSI UII |
+| **Fullstack Web Routes** | **114 Routes** | Next.js 15 App Router (`/owner`, `/manager`, `/customer`) in `iza-pos-v2` |
 
 ---
 
@@ -57,6 +51,6 @@ If my open-source tools or software systems save you time, [support the work on 
 
 <p align="center">
   <a href="https://github.com/iza-aa">GitHub</a> · 
-  <a href="https://saweria.co/heizaaa">Saweria</a> · 
-  <a href="https://github.com/iza-aa?tab=repositories">Repositories</a>
+  <a href="https://izadesign.site">Portfolio</a> · 
+  <a href="https://saweria.co/heizaaa">Saweria</a>
 </p>
