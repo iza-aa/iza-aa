@@ -20,5 +20,5 @@ I build software that tackles real operational headaches — turning messy physi
 ### Links & Contact
 
 - **Portfolio & Case Studies:** [izadesign.site](https://izadesign.site)
-- **Email:** [21523273@students.uii.ac.id](mailto:21523273@students.uii.ac.id)
+- **Email:** [rezkyhaikal10@gmail.com](mailto:rezkyhaikal10@gmail.com)
 - **GitHub:** [github.com/iza-aa](https://github.com/iza-aa)
